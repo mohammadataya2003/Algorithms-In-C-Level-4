@@ -24,7 +24,7 @@ In this level, the logic is elevated. Every solution crafted in this repository 
 A robust C++ algorithm that converts massive numerical values into formatted English text.
 - **Concepts Applied:** Recursion, String padding, Edge-case handling (consecutive zeros).
 - **The Challenge:** Refactored from complex nested loops into a streamlined, readable sequential flow.
-- 🔗 **[View the Code Here](./Strings/NumberToWords.cpp)** *(Update link after uploading)*
+- 🔗 **[View the Code Here](./NumberToWords.cpp)** *(Update link after uploading)*
 
 ---
 
